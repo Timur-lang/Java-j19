@@ -25,5 +25,8 @@ public class PrimitivesExample {
         System.out.println(b* 5 % 25);
 
         System.out.println(b>= 10);
+
+
+
     }
 }
