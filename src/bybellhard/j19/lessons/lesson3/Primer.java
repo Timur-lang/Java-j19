@@ -26,6 +26,7 @@ public class Primer {
                 break;
                 default:
                     System.out.println("invalid input");
+
         }
     }
 }
