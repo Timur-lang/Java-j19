@@ -11,5 +11,8 @@ public class Main {
 
 
     }
+
+    private static void doWork(Janitor jn1) {
+    }
 }
 
